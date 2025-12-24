@@ -1,0 +1,124 @@
+{"questions":
+[
+  {
+    "id": 1,
+    "question": "What is React?",
+    "options": [
+      "JavaScript Library",
+      "Framework",
+      "Programming Language",
+      "Database"
+    ],
+    "correctOption": 0,
+    "points": 10
+  },
+  {
+    "id": 2,
+    "question": "Who developed React?",
+    "options": [
+      "Google",
+      "Facebook",
+      "Microsoft",
+      "Amazon"
+    ],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "id": 3,
+    "question": "What is JSX?",
+    "options": [
+      "Java Syntax Extension",
+      "JSON XML",
+      "JavaScript XML",
+      "Java XHTML"
+    ],
+    "correctOption": 2,
+    "points": 10
+  },
+  {
+    "id": 4,
+    "question": "Which hook is used to manage state?",
+    "options": [
+      "useEffect",
+      "useState",
+      "useRef",
+      "useMemo"
+    ],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "id": 5,
+    "question": "What is the default port of React app?",
+    "options": [
+      "3000",
+      "8080",
+      "4200",
+      "5000"
+    ],
+    "correctOption": 0,
+    "points": 10
+  },
+  {
+    "id": 6,
+    "question": "Which method is used to render React app?",
+    "options": [
+      "render()",
+      "createRoot()",
+      "append()",
+      "mount()"
+    ],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "id": 7,
+    "question": "Props are ____?",
+    "options": [
+      "Mutable",
+      "Immutable",
+      "Functions",
+      "Hooks"
+    ],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "id": 8,
+    "question": "Which hook runs after render?",
+    "options": [
+      "useState",
+      "useEffect",
+      "useContext",
+      "useCallback"
+    ],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "id": 9,
+    "question": "What is Virtual DOM?",
+    "options": [
+      "Real DOM",
+      "Copy of Real DOM",
+      "Browser DOM",
+      "Database DOM"
+    ],
+    "correctOption": 1,
+    "points": 20
+  },
+  {
+    "id": 10,
+    "question": "React is mainly used for?",
+    "options": [
+      "Backend Development",
+      "Database Management",
+      "UI Development",
+      "API Creation"
+    ],
+    "correctOption": 2,
+    "points": 30
+  }
+]
+}

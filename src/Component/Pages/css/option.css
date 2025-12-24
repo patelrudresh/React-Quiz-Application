@@ -1,0 +1,30 @@
+.options-vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.option {
+  width: 100%;
+  padding: 14px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: left;
+}
+
+/* correct / wrong */
+.option.correct {
+  background-color: #4caf50;
+  color: white;
+}
+
+.option.wrong {
+  background-color: #f44336;
+  color: white;
+}
+
+.option.answer {
+  border: 2px solid #000;
+}

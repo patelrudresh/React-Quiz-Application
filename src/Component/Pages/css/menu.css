@@ -1,0 +1,46 @@
+/* APP WRAPPER */
+.app {
+  min-height: 100vh;
+  background-color: #f4f6fa;
+  display: flex;
+  flex-direction: column;
+}
+
+/* NAVBAR */
+.navbar {
+  height: 60px;
+  background-color: #1e293b;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+}
+
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nav-info span {
+  font-size: 16px;
+}
+
+/* MAIN CONTENT */
+.main {
+  flex: 1;
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+/* FOOTER (Timer area) */
+footer {
+  margin-top: 20px;
+  padding-top: 12px;
+  border-top: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
